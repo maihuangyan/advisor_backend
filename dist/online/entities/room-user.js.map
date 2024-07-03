@@ -1,0 +1,1 @@
+{"version":3,"file":"room-user.js","sourceRoot":"","sources":["../../../src/online/entities/room-user.ts"],"names":[],"mappings":";;;AAAA,MAAa,QAAQ;IASnB,YACE,KAAa,EACb,OAAe,EACf,OAAe,EACf,SAAiB;QAEjB,IAAI,CAAC,KAAK,GAAG,KAAK,CAAC;QACnB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,OAAO,GAAG,OAAO,CAAC;QACvB,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;CACF;AApBD,4BAoBC"}
